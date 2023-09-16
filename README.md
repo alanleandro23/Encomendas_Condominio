@@ -1,4 +1,4 @@
-## 🏢 **Condominium Management** 🏢
+## 🏢 **Condominium Management** 
 
 Este projeto visa à criação de um aplicativo sob medida para atender às necessidades de um condomínio. O objetivo principal é oferecer aos locatários a comodidade de rastrear a chegada de encomendas na portaria de forma ágil e eficiente. Para alcançar esse propósito, planejamos desenvolver um sistema robusto que possibilite uma experiência fluida aos usuários.
 
@@ -47,19 +47,19 @@ Login: 846.489.970-45
 Código de acesso: 123qwe
 ## Acessos:
 
-- **Síndico** -
+- ** 🏢 Síndico** -
 **Login:** 846.489.970-45
 
 **Código de acesso:** 123qwe
 
 **_________________________________________________________________________________________**
-- **Porteiro** -
+- ** 🏢 Porteiro** -
 **Login:** 036.529.376-12
 
 **Código de acesso:** b0342d02dbe3e47c7653fbaba4bda876
 
 **_________________________________________________________________________________________**
-- **Inquilino** -
+- ** 🏢 Inquilino** -
 **Login:** 648.762.812-32
 
 **Apartamento:** 12A
