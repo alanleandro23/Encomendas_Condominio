@@ -1,5 +1,3 @@
-## 🏢 **Condominium Management** 
-
 Este projeto visa à criação de um aplicativo sob medida para atender às necessidades de um condomínio. O objetivo principal é oferecer aos locatários a comodidade de rastrear a chegada de encomendas na portaria de forma ágil e eficiente. Para alcançar esse propósito, planejamos desenvolver um sistema robusto que possibilite uma experiência fluida aos usuários.
 
 No cerne desse projeto, encontram-se três principais grupos de usuários: inquilinos, porteiros e síndicos. Cada um deles desempenha um papel distinto e, portanto, terá acesso a funcionalidades específicas. A autenticação de usuários será feita por meio de informações como CPF e número do apartamento, garantindo uma identificação precisa.
